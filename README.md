@@ -5,5 +5,6 @@
 
 ```console
 pip3 install pyqt6
+pip3 install sqlite3
 ```
 
