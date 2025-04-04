@@ -175,3 +175,4 @@ cython_debug/
 /Accounting software - Wikipedia.html
 /Accounting software - Wikipedia_files/
 /conn.py~
+*.db

@@ -1,4 +1,4 @@
-# hesabazad
+# Hesabazad
 نرم افزار حسابداری آزاد
 
 ## Dependencies
